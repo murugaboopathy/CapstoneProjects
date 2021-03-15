@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\boopa\\source\\repos\\RazorApp\\RazorApp.csproj": {}
+    "C:\\Users\\boopa\\Documents\\GitHub\\CapstoneProjects\\RazorApp\\RazorApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\boopa\\source\\repos\\RazorApp\\RazorApp.csproj": {
+    "C:\\Users\\boopa\\Documents\\GitHub\\CapstoneProjects\\RazorApp\\RazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\boopa\\source\\repos\\RazorApp\\RazorApp.csproj",
+        "projectUniqueName": "C:\\Users\\boopa\\Documents\\GitHub\\CapstoneProjects\\RazorApp\\RazorApp.csproj",
         "projectName": "RazorApp",
-        "projectPath": "C:\\Users\\boopa\\source\\repos\\RazorApp\\RazorApp.csproj",
+        "projectPath": "C:\\Users\\boopa\\Documents\\GitHub\\CapstoneProjects\\RazorApp\\RazorApp.csproj",
         "packagesPath": "C:\\Users\\boopa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\boopa\\source\\repos\\RazorApp\\obj\\",
+        "outputPath": "C:\\Users\\boopa\\Documents\\GitHub\\CapstoneProjects\\RazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\boopa\\AppData\\Roaming\\NuGet\\NuGet.Config",

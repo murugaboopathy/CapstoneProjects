@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jn8Mgp8uGrqd5BIJQFa1ciqDpWzHDXaMxLzebffhkQCp0KXKzcx45HhqhgAejczQ1sgjkz2HydvPBNMeGa4mSA==",
+  "dgSpecHash": "RhiWQ55XtmILDwFpmFgRVJH3z6qeQcbKz2uA1enHQcMCe4zN5cgxhkpJ17eWqVKNj1sMuJcOOYHVipeCsi8b9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\boopa\\source\\repos\\CoreStaticnRazorApp\\CoreStaticnRazorApp.csproj",
+  "projectFilePath": "C:\\Users\\boopa\\Documents\\GitHub\\CapstoneProjects\\CoreStaticnRazorApp\\CoreStaticnRazorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\boopa\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\boopa\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.server.abstractions.2.2.0.nupkg.sha512",

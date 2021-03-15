@@ -638,11 +638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\boopa\\source\\repos\\CoreStaticnRazorApp\\CoreStaticnRazorApp.csproj",
+      "projectUniqueName": "C:\\Users\\boopa\\Documents\\GitHub\\CapstoneProjects\\CoreStaticnRazorApp\\CoreStaticnRazorApp.csproj",
       "projectName": "CoreStaticnRazorApp",
-      "projectPath": "C:\\Users\\boopa\\source\\repos\\CoreStaticnRazorApp\\CoreStaticnRazorApp.csproj",
+      "projectPath": "C:\\Users\\boopa\\Documents\\GitHub\\CapstoneProjects\\CoreStaticnRazorApp\\CoreStaticnRazorApp.csproj",
       "packagesPath": "C:\\Users\\boopa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\boopa\\source\\repos\\CoreStaticnRazorApp\\obj\\",
+      "outputPath": "C:\\Users\\boopa\\Documents\\GitHub\\CapstoneProjects\\CoreStaticnRazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\boopa\\AppData\\Roaming\\NuGet\\NuGet.Config",

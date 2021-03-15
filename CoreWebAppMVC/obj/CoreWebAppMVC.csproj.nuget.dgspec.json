@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\boopa\\source\\repos\\CoreWebAppMVC\\CoreWebAppMVC.csproj": {}
+    "C:\\Users\\boopa\\Documents\\GitHub\\CapstoneProjects\\CoreWebAppMVC\\CoreWebAppMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\boopa\\source\\repos\\CoreWebAppMVC\\CoreWebAppMVC.csproj": {
+    "C:\\Users\\boopa\\Documents\\GitHub\\CapstoneProjects\\CoreWebAppMVC\\CoreWebAppMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\boopa\\source\\repos\\CoreWebAppMVC\\CoreWebAppMVC.csproj",
+        "projectUniqueName": "C:\\Users\\boopa\\Documents\\GitHub\\CapstoneProjects\\CoreWebAppMVC\\CoreWebAppMVC.csproj",
         "projectName": "CoreWebAppMVC",
-        "projectPath": "C:\\Users\\boopa\\source\\repos\\CoreWebAppMVC\\CoreWebAppMVC.csproj",
+        "projectPath": "C:\\Users\\boopa\\Documents\\GitHub\\CapstoneProjects\\CoreWebAppMVC\\CoreWebAppMVC.csproj",
         "packagesPath": "C:\\Users\\boopa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\boopa\\source\\repos\\CoreWebAppMVC\\obj\\",
+        "outputPath": "C:\\Users\\boopa\\Documents\\GitHub\\CapstoneProjects\\CoreWebAppMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\boopa\\AppData\\Roaming\\NuGet\\NuGet.Config",

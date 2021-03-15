@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2mPBHu7vc2Q/pu4xTTsLkINsyCu8WAYUtNLfJe93uz9/cm3Rrvcnb1c0GP2o5HeUB8YCy6+ANGcN+3Bv+crvXQ==",
+  "dgSpecHash": "ts329g8nVB/+CcqB856AKhWa+nYv6PnuGllsTXNIEfOrklT48i5T2qcurqadxxVdXeGl2bgpPF0UvyR3M+jmNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\boopa\\source\\repos\\CoreWebAppMVC\\CoreWebAppMVC.csproj",
+  "projectFilePath": "C:\\Users\\boopa\\Documents\\GitHub\\CapstoneProjects\\CoreWebAppMVC\\CoreWebAppMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\boopa\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\boopa\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
